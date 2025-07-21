@@ -1,0 +1,1 @@
+cd "c:\Users\lenovo\Desktop\coding\File.c\" ; if 
